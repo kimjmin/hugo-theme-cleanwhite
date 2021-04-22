@@ -1,3 +1,14 @@
+This is cloned Clean White Theme for Hugo from https://github.com/zhaohuabing/hugo-theme-cleanwhite
+
+to add this theme, run
+```
+$ git submodule add https://github.com/kimjmin/hugo-theme-cleanwhite.git themes/hugo-theme-cleanwhite
+```
+under hugo site.
+
+
+
+
 # Clean White Theme for Hugo
 
 CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.  
